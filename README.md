@@ -7,25 +7,25 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 
 <p align="center">
   <!-- PHP -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" alt="PHP"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" style="margin-right:2px" alt="PHP"/>
 
   <!-- Laravel (imagem alternativa) -->
-  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="65" alt="Laravel"/>
+  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="65" style="margin-right:2px" alt="Laravel"/>
 
   <!-- Vue.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" style="margin-right:2px" alt="Vue.js"/>
 
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" style="margin-right:2px" alt="JavaScript"/>
 
   <!-- jQuery -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="70" alt="jQuery"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="70" style="margin-right:2px" alt="jQuery"/>
 
   <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" style="margin-right:2px" alt="Bootstrap"/>
 
   <!-- TailwindCSS (imagem alternativa) -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" alt="TailwindCSS"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" style="margin-right:2px" alt="TailwindCSS"/>
 
   <!-- GitHub -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60" alt="GitHub"/>
