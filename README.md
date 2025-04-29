@@ -9,7 +9,7 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 
 <p align="center">
   <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="90" alt="PHP"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="70" alt="PHP"/>
 
   <!-- Laravel (imagem alternativa) -->
   <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="65" alt="Laravel"/>
