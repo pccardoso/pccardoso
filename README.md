@@ -8,13 +8,26 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 ## 🚀 Minhas Tecnologias Principais
 
 <p align="center">
+  <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60" alt="Laravel"/>
+
+  <!-- Laravel (imagem alternativa) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="60" alt="Laravel"/>
+
+  <!-- Vue.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/>
+
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"/>
+
+  <!-- jQuery -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="60" alt="jQuery"/>
+
+  <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" alt="TailwindCSS"/>
+
+  <!-- TailwindCSS (imagem alternativa) -->
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" alt="TailwindCSS"/>
 </p>
 
 ---
