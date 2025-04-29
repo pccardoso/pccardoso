@@ -32,4 +32,15 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 
 ---
 
+## 🚀 Projetos em destaque
+
+- 🎫 **Sistema de Tickets - Evogard**  
+  Controle de tickets com painel administrativo, autenticação, mudança de status com notificações (desenvolvimento).
+
+- 💎 **e-Commerce XOXO Store**  
+  Página responsiva com HTML, CSS, JS, jQuery e PHP.  
+  👉 [Acesse aqui](https://www.usexoxo.com.br/app/page/index.php)
+
+---
+
 > *"Apenas, se quiser esta vida essas escolhas são necessárias..."*
