@@ -32,7 +32,7 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 
 ---
 
-## 🚀 Projetos em destaque
+## 📂 Projetos em destaque
 
 - 🎫 **Sistema de Tickets - Evogard**  
   Controle de tickets com painel administrativo, autenticação, mudança de status com notificações (desenvolvimento).
