@@ -18,4 +18,4 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 
 ---
 
-> *"Código limpo é poesia que funciona."*
+> *"Apenas, se quiser esta vida essas escolhas são necessárias..."*
