@@ -28,7 +28,7 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" alt="TailwindCSS"/>
 
   <!-- GitHub -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="70" alt="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60" alt="GitHub"/>
 </p>
 
 ## 📂 Projetos em destaque
