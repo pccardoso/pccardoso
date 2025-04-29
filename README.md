@@ -12,7 +12,7 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP"/>
 
   <!-- Laravel (imagem alternativa) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="60" alt="Laravel"/>
+  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/laravel-logomark-red.svg" width="60" alt="Laravel"/>
 
   <!-- Vue.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" alt="Vue.js"/>
