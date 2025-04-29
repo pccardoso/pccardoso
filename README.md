@@ -36,6 +36,10 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 - 🎫 **Sistema de Tickets - Evogard**  
   Controle de tickets com painel administrativo, autenticação, mudança de status com notificações (desenvolvimento).
 
+- 💸 **Sistema de Leilão - Evogard**
+  Gerenciamento de leilão, cadastro e lances em tempo real entre usuários.
+  👉 [Acesse aqui](https://www.usexoxo.com.br/leilao/index.php)
+
 - 💎 **e-Commerce XOXO Store**  
   Página responsiva com HTML, CSS, JS, jQuery e PHP.  
   👉 [Acesse aqui](https://www.usexoxo.com.br/app/page/index.php)
