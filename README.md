@@ -5,7 +5,7 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 
 ## 📊 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pccardoso&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pccardoso&theme=radical&layout=compact)
 
 ## 🚀 Minhas Tecnologias Principais
 
