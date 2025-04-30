@@ -9,7 +9,7 @@ Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplic
 
 ## 🚀 Minhas Tecnologias Principais
 
-<p align="center" background="gray">
+<p align="center">
   <!-- PHP -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="75" style="margin-right:5px" alt="PHP"/>
 
