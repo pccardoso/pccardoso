@@ -3,6 +3,8 @@
 Sou desenvolvedor web com experiência em **jQuery**, **PHP** e **JavaScript Nativo**, utilizando também frameworks modernos como **Laravel**, **Vue.js** e **Inertia.js** para construção de aplicações dinâmicas.  
 Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplicando sempre foco em interfaces responsivas, código limpo e boa experiência do usuário.
 
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+
 ## 🚀 Minhas Tecnologias Principais
 
 <p align="center" background="gray">
