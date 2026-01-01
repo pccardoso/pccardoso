@@ -1,51 +1,66 @@
 # 👋 Olá, eu sou o Paulo!
 
-Sou desenvolvedor web com experiência em **jQuery**, **PHP** e **JavaScript Nativo**, utilizando também frameworks modernos como **Laravel**, **Vue.js** e **Inertia.js** para construção de aplicações dinâmicas.  
-Conhecimento em **Bootstrap** e conhecimentos básicos em **TailwindCSS**, aplicando sempre foco em interfaces responsivas, código limpo e boa experiência do usuário.
+Sou **Desenvolvedor Web Full Stack**, com foco em **Laravel** e forte integração com **Vue.js + Inertia.js**. Trabalho com **PHP** e **JavaScript moderno (ES6+)**, desenvolvendo aplicações reais, escaláveis e bem organizadas, sempre priorizando performance, código limpo e boa experiência do usuário.
+
+Tenho experiência prática na construção de **sistemas em produção**, como plataformas de **tickets**, **leilões** e **e-commerces**, lidando com autenticação, permissões, notificações, integrações em tempo real e otimização de requisições.
+
+---
+
+## 🚀 Tecnologias
+
+### 🧠 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" alt="Laravel"/>
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" alt="jQuery"/>
+</p>
+
+### 🎯 UI / Estilo
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" alt="TailwindCSS"/>
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+</p>
+
+### ⚙️ Infra / Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+</p>
+
+---
 
 ## 📊 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pccardoso&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pccardoso&theme=radical&layout=compact)
 
-## 🚀 Minhas Tecnologias Principais
-
-<p align="center">
-  <!-- PHP -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="75" style="margin-right:5px" alt="PHP"/>
-
-  <!-- Laravel (imagem alternativa) -->
-  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="65" style="margin-right:5px" alt="Laravel"/>
-
-  <!-- Vue.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" style="margin-right:5px" alt="Vue.js"/>
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" style="margin-right:5px" alt="JavaScript"/>
-
-  <!-- jQuery -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="70" style="margin-right:5px" alt="jQuery"/>
-
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" style="margin-right:5px" alt="Bootstrap"/>
-
-  <!-- TailwindCSS (imagem alternativa) -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="70" style="margin-right:5px" alt="TailwindCSS"/>
-
-  <!-- GitHub -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="60" alt="GitHub"/>
-</p>
+---
 
 ## 📂 Projetos em destaque
 
-- 🎫 **Sistema de Tickets - Evogard**  
-  *Controle de tickets com painel administrativo, autenticação, mudança de status com notificações (desenvolvimento).*
+- 🎫 **Sistema de Tickets – Evogard**  
+  Plataforma de tickets com painel administrativo, controle de status, notificações e otimizações de performance.
 
-- 💸 **Sistema de Leilão - Evogard**
-  *Gerenciamento de leilão, cadastro e lances em tempo real entre usuários.*
-  *👉 [Acesse aqui](https://www.usexoxo.com.br/leilao/index.php)*
+- 💸 **Sistema de Leilão – Evogard**  
+  Sistema de leilões com cadastro de usuários e lances em tempo real.  
+  👉 https://www.usexoxo.com.br/leilao/index.php
 
 - 💎 **e-Commerce XOXO Store**  
-  *Página responsiva com HTML, CSS, JS, jQuery e PHP.*
-  *👉 [Acesse aqui](https://www.usexoxo.com.br/app/page/index.php)*
+  E-commerce responsivo desenvolvido com HTML, CSS, JavaScript, jQuery e PHP.  
+  👉 https://www.usexoxo.com.br/app/page/index.php
 
-> *"Apenas, se quiser esta vida essas escolhas são necessárias..."*
+---
+
+> *"Apenas se quiser esta vida, essas escolhas são necessárias."*
