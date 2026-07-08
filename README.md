@@ -31,19 +31,4 @@ Tenho experiência prática na construção de **sistemas em produção**, como 
 
 ---
 
-## 📂 Projetos em destaque
-
-- 🎫 **Sistema de Tickets – Evogard**  
-  Plataforma de tickets com painel administrativo, controle de status, notificações e otimizações de performance.
-
-- 💸 **Sistema de Leilão – Evogard**  
-  Sistema de leilões com cadastro de usuários e lances em tempo real.  
-  👉 https://www.usexoxo.com.br/leilao/index.php
-
-- 💎 **e-Commerce XOXO Store**  
-  E-commerce responsivo desenvolvido com HTML, CSS, JavaScript, jQuery e PHP.  
-  👉 https://www.usexoxo.com.br/app/page/index.php
-
----
-
 > *"Apenas se quiser esta vida, essas escolhas são necessárias."*
