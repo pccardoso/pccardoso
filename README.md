@@ -46,10 +46,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pccardoso&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pccardoso/pccardoso/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
 
 ---
 
