@@ -39,16 +39,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pccardoso&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pccardoso&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pccardoso&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pccardoso&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -56,8 +48,18 @@
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-cesar-b073881a0/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" alt="LinkedIn" style="filter: invert(45%) sepia(90%) saturate(1000%) hue-rotate(180deg);"/></a>
-  <a href="https://www.instagram.com/pcosta.g" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30" alt="Instagram" style="filter: invert(45%) sepia(90%) saturate(1000%) hue-rotate(300deg);"/></a>
+  <a href="https://www.linkedin.com/in/paulo-cesar-b073881a0/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/pcosta.g" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/5585994468942" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:paulo.cardoso2408@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
