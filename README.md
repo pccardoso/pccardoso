@@ -17,6 +17,13 @@
 
 ---
 
+### 🎓 Formação
+
+- 🎓 **Tecnólogo em Redes de Computadores** — IFCE
+- 📚 Cursando **Pós-graduação em Engenharia de Software Aplicado com IA**
+
+---
+
 ### 🚀 Tecnologias
 
 <p align="center">
@@ -42,6 +49,7 @@
 
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pccardoso&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
